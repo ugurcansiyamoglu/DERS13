@@ -15,6 +15,7 @@ namespace DERS13
             Console.WriteLine(isimler[2]);  // kapalı parantez içine yazılan sayıya karşılık gelen ismi ekrana yazar ve 0 dan başlar
             Console.Read(); */
 
+            //fghfgh
             
         }
     }
